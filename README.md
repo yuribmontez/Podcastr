@@ -17,7 +17,7 @@
 ## About
 
 <h3 align="center">
-  <a href="https://podcastr-six-mu.vercel.app">Podcastr</a> is a platform built for podcast broadcasting.
+  <a href="https://podcastr-six-mu.vercel.app" target="_blank">Podcastr</a> is a platform built for podcast broadcasting.
 </h3>
 
 The app is built in React + NextJS and it has all common commands from an audio player. 
