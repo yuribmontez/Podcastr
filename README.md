@@ -31,12 +31,14 @@ This project was built during the - Next Level Week event - By [Rocketseat](http
 
 ## Tecnologies
 
+This project was developed using cutting edge front-end technologies.
+
 <div align="center">
   <br />
   <img src="./public/tech-logos.png" alt="Technologies used">
 </div>
 
-This project was developed using cutting edge front-end technologies.
+
 
 
 - [ReactJS](https://reactjs.org/)
