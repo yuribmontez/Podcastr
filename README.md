@@ -16,14 +16,16 @@
 
 ## About
 
-<h4 align="center">
+<h3 align="center">
   <a href="https://podcastr-six-mu.vercel.app">Podcastr</a> is a platform built for podcast broadcasting.
-</h4>
-<h5>
-The app is built in React + NextJS and it has all common commands from an audio player. Also, the app can show the details about the specific episode by clicking on its title and accessing its page.
+</h3>
+
+The app is built in React + NextJS and it has all common commands from an audio player. 
+Also, the app can show the details about the specific episode by clicking on its title and accessing its page.
+<br>
 
 This project was built during the - Next Level Week event - By [Rocketseat](https://rocketseat.com.br/).
-</h5>
+
 
 ![Podcastr preview](./public/app-preview.png)
 
