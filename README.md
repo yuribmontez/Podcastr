@@ -1,6 +1,7 @@
 <div align="center">
   <img src="./public/logo.svg" alt="Podcastr logo" width="400px">
 </div>
+<br>
 <p align="center">
   <a>
     <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/VagnerNico/nlw5react">
