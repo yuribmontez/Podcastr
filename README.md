@@ -38,12 +38,9 @@ This project was developed using cutting edge front-end technologies.
   <img src="./public/tech-logos.png" alt="Technologies used">
 </div>
 
-
-
-
 - [ReactJS](https://reactjs.org/)
-- [Typescript](https://www.typescriptlang.org/)
 - [Next.js](https://nextjs.org/)
+- [Typescript](https://www.typescriptlang.org/)
 
 ## 💻 Getting started
 
